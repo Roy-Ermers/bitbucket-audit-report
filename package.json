@@ -1,0 +1,23 @@
+{
+  "name": "bitbucket-audit-report",
+  "version": "1.0.0",
+  "description": "Bitbucket Pipelines report for javascript audits.",
+  "bin": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saibotsivad/bpr-npm-audit.git"
+  },
+  "keywords": [
+    "bitbucket",
+    "pipelines",
+    "report",
+    "npm",
+    "audit",
+    "security"
+  ],
+  "author": {
+    "name": "Roy Ermers"
+  },
+  "license": "SEE LICENSE IN LICENSE.md",
+  "homepage": "https://github.com/saibotsivad/bpr-npm-audit#readme"
+}
