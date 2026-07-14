@@ -8,7 +8,7 @@
     "url": "git+https://github.com/saibotsivad/bpr-npm-audit.git"
   },
   "scripts": {
-    "release": "changelogen --release --push --publish"
+    "release": "changelogen --release --push"
   },
   "keywords": [
     "bitbucket",
@@ -24,5 +24,6 @@
   "license": "SEE LICENSE IN LICENSE.md",
   "devDependencies": {
     "changelogen": "^0.6.2"
-  }
+  },
+  "packageManager": "pnpm@12.0.0-alpha.10+sha512.28084b30c91374a04ceb2c7932d077a3f70f615c8f11f7726eef0d44ade0d6a2ea0c319d6b2721c653433fba68208ad73a91277da0e71b728c0d6723526f4975"
 }
