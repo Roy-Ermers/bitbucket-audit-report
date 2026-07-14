@@ -5,7 +5,7 @@
   "bin": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/saibotsivad/bpr-npm-audit.git"
+    "url": "git@github.com:Roy-Ermers/bitbucket-audit-report.git"
   },
   "scripts": {
     "release": "changelogen --release --push"
