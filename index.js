@@ -97,6 +97,11 @@ class AuditParser {
 		return auditData.metadata.dependencies;
 	}
 
+	static trimDetails(details, maxLength = 2000) {
+		if (details.length <= maxLength) return details;
+		return details.substring(0, maxLength - 3) + '...';
+	}
+
 	static extractAnnotations(auditData, config) {
 		const annotations = [];
 
@@ -114,7 +119,7 @@ class AuditParser {
 			annotations.push({
 				id: id.replace(/\//g, '-'),
 				summary: `${advisory.module_name}: ${advisory.title}`,
-				details: `Vulnerable version: ${advisory.vulnerable_versions}\nFixed in: ${advisory.patched_versions}\nFound in:\n${paths}`,
+				details: this.trimDetails(`Vulnerable version: ${advisory.vulnerable_versions}\nFixed in: ${advisory.patched_versions}\nFound in:\n${paths}`),
 				link: advisory.url,
 				path: "package.json",
 				line: 1,
