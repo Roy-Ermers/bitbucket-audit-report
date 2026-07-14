@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.3
+
+[compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.2...v1.2.3)
+
+### 📦 Build
+
+- Fix order of arguments ([56e67df](https://github.com/saibotsivad/bpr-npm-audit/commit/56e67df))
+
+### ❤️ Contributors
+
+- Roy Ermers <roy.ermers@medapp.nl>
+
 ## v1.2.2
 
 [compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.1...v1.2.2)
