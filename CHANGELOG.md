@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.4
+
+[compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.3...v1.2.4)
+
+### 📦 Build
+
+- Disable git checks ([7dbd255](https://github.com/saibotsivad/bpr-npm-audit/commit/7dbd255))
+
+### ❤️ Contributors
+
+- Roy Ermers <roy.ermers@medapp.nl>
+
 ## v1.2.3
 
 [compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.2...v1.2.3)
