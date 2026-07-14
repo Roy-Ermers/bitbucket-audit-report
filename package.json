@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/saibotsivad/bpr-npm-audit.git"
   },
+  "scripts": {
+    "release": "changelogen --release --push --publish"
+  },
   "keywords": [
     "bitbucket",
     "pipelines",
@@ -19,5 +22,7 @@
     "name": "Roy Ermers"
   },
   "license": "SEE LICENSE IN LICENSE.md",
-  "homepage": "https://github.com/saibotsivad/bpr-npm-audit#readme"
+  "devDependencies": {
+    "changelogen": "^0.6.2"
+  }
 }
