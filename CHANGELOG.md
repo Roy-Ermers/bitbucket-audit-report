@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.2
+
+[compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.1...v1.2.2)
+
+### 🩹 Fixes
+
+- Build script ([02a85c5](https://github.com/saibotsivad/bpr-npm-audit/commit/02a85c5))
+
+### ❤️ Contributors
+
+- Roy Ermers <roy.ermers@medapp.nl>
+
 ## v1.2.1
 
 [compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.0...v1.2.1)
