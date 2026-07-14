@@ -1,6 +1,18 @@
 # Changelog
 
 
+## v1.2.1
+
+[compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.0...v1.2.1)
+
+### 🩹 Fixes
+
+- Remove redundant pnpm ci ([e98a2d9](https://github.com/saibotsivad/bpr-npm-audit/commit/e98a2d9))
+
+### ❤️ Contributors
+
+- Roy Ermers <roy.ermers@medapp.nl>
+
 ## v1.2.0
 
 [compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.1.0...v1.2.0)
