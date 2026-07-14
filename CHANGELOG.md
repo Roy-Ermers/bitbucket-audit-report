@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v1.2.5
+
+[compare changes](https://github.com/Roy-Ermers/bitbucket-audit-report/compare/v1.2.4...v1.2.5)
+
+### 🩹 Fixes
+
+- Trim details ([bac2d77](https://github.com/Roy-Ermers/bitbucket-audit-report/commit/bac2d77))
+- Update repository key ([a39d615](https://github.com/Roy-Ermers/bitbucket-audit-report/commit/a39d615))
+
+### ❤️ Contributors
+
+- Roy Ermers <roy.ermers@medapp.nl>
+
 ## v1.2.4
 
 [compare changes](https://github.com/saibotsivad/bpr-npm-audit/compare/v1.2.3...v1.2.4)
